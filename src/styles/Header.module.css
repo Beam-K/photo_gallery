@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #100f14;
+    padding: 20px;
+
+
+}
+
+.logo {
+    height: 5vmin;
+    width: 5vmin;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+    border-radius: 50px;
+    border: 2px solid #414045;
+
+    width: calc(100vw - 120px);
+    height: auto;
+
+    padding: 5px;
+}
+
+.iconSearch {
+    height: 3vmin;
+    width: 3vmin;
+
+}
+
+.searchInput {
+    background-color: #100f14;
+    border: none;
+    width: inherit;
+}

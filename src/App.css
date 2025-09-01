@@ -1,46 +1,8 @@
-.App {
+.app-wrapper {
     background-color: #100f14;
-    padding: 20px;
     display: flex;
-    flex-direction: row;
+
+    height: 100vh;
+    flex-direction: column;
 }
 
-.App-header {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    justify-content: center;
-    align-items: center;
-
-}
-
-.App-logo {
-    height: 5vmin;
-    width: 5vmin;
-}
-
-.App-search {
-    display: flex;
-    flex-direction: row;
-    gap: 15px;
-
-    border-radius: 50px;
-    border: 2px solid #414045;
-
-    width: calc(100vw - 120px);
-    height: auto;
-
-    padding: 5px;
-}
-
-.iconSearch {
-    height: 3vmin;
-    width: 3vmin;
-
-}
-
-.App-search-input {
-    background-color: #100f14;
-    border: none;
-    width: inherit;
-}
