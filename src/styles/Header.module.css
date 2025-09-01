@@ -18,16 +18,20 @@
 .search {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
     gap: 15px;
-
+    padding: 5px 5px 5px 10px;
     border-radius: 50px;
     border: 2px solid #414045;
 
     width: calc(100vw - 120px);
     height: auto;
 
-    padding: 5px;
+
+    outline: none;
 }
+
 
 .iconSearch {
     height: 3vmin;
@@ -39,4 +43,21 @@
     background-color: #100f14;
     border: none;
     width: inherit;
+    padding: 3px;
+    border-radius: 50px;
+
+
+    color: #757575;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.searchInput:focus {
+    outline: 2px solid #0099e5;
+    outline-offset: 2px;
+    border-color: #0099e5;
+    padding: 3px 5px;
+    border-radius: 50px;
 }

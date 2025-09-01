@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23361b28-f070-46eb-bc7a-f09d245410d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Header.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iconSearch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/iconSearch.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photos/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Header.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/katya/WebstormProjects/learning-react",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,9 +57,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\photo_gallery\src" />
+      <recent name="C:\Projects\photo_gallery\src\global" />
       <recent name="C:\Projects\photo_gallery\src\images\photos" />
       <recent name="C:\Projects\photo_gallery\src\images\icons" />
-      <recent name="C:\Projects\photo_gallery\src" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -96,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756397286398</updated>
-      <workItem from="1756397287453" duration="8288000" />
+      <workItem from="1756397287453" duration="11001000" />
     </task>
     <servers />
   </component>
