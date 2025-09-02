@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23361b28-f070-46eb-bc7a-f09d245410d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Gallery.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PhotoCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Gallery.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/PhotoCard.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icons/iconSearch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photos/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Header.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +26,7 @@
       <list>
         <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -26,6 +35,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -57,9 +69,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\photo_gallery\public" />
+      <recent name="C:\Projects\photo_gallery\src\images\photos" />
       <recent name="C:\Projects\photo_gallery\src" />
       <recent name="C:\Projects\photo_gallery\src\global" />
-      <recent name="C:\Projects\photo_gallery\src\images\photos" />
       <recent name="C:\Projects\photo_gallery\src\images\icons" />
     </key>
   </component>
@@ -93,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756397286398</updated>
-      <workItem from="1756397287453" duration="11001000" />
+      <workItem from="1756397287453" duration="25380000" />
     </task>
     <servers />
   </component>

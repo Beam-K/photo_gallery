@@ -1,0 +1,13 @@
+.gallery {
+    display: grid;
+    gap: 7px;
+    padding: 20px;
+    width: 100%;
+    margin-left: -20px;
+    margin-right: -20px;
+    box-sizing: border-box;
+
+    justify-content: center; /* Выравниваем grid по центру */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 200px));
+
+}
