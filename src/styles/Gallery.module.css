@@ -7,7 +7,7 @@
     margin-right: -20px;
     box-sizing: border-box;
 
-    justify-content: center; /* Выравниваем grid по центру */
+    justify-content: center;
     grid-template-columns: repeat(auto-fill, minmax(200px, 200px));
 
 }

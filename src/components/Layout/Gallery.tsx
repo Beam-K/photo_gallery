@@ -13,8 +13,8 @@ function Gallery({photos}: Props) {
         <div className={styles.gallery}>
             {photos.map((photo) => (
                 <PhotoCard
-                    key={photo.id}    // Важно!
-                    photo={photo}     // Передаем объект фото целиком
+                    key={photo.id}
+                    photo={photo}
                 />
             ))}
         </div>
